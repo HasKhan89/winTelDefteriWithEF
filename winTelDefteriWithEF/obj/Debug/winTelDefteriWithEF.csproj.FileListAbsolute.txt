@@ -1,0 +1,13 @@
+C:\Users\HasKhan\Desktop\winTelDefteriWithEF\winTelDefteriWithEF\bin\Debug\winTelDefteriWithEF.exe.config
+C:\Users\HasKhan\Desktop\winTelDefteriWithEF\winTelDefteriWithEF\bin\Debug\winTelDefteriWithEF.exe
+C:\Users\HasKhan\Desktop\winTelDefteriWithEF\winTelDefteriWithEF\bin\Debug\winTelDefteriWithEF.pdb
+C:\Users\HasKhan\Desktop\winTelDefteriWithEF\winTelDefteriWithEF\bin\Debug\EntityFramework.dll
+C:\Users\HasKhan\Desktop\winTelDefteriWithEF\winTelDefteriWithEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HasKhan\Desktop\winTelDefteriWithEF\winTelDefteriWithEF\bin\Debug\EntityFramework.xml
+C:\Users\HasKhan\Desktop\winTelDefteriWithEF\winTelDefteriWithEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HasKhan\Desktop\winTelDefteriWithEF\winTelDefteriWithEF\obj\Debug\winTelDefteriWithEF.csprojResolveAssemblyReference.cache
+C:\Users\HasKhan\Desktop\winTelDefteriWithEF\winTelDefteriWithEF\obj\Debug\winTelDefteriWithEF.Form1.resources
+C:\Users\HasKhan\Desktop\winTelDefteriWithEF\winTelDefteriWithEF\obj\Debug\winTelDefteriWithEF.Properties.Resources.resources
+C:\Users\HasKhan\Desktop\winTelDefteriWithEF\winTelDefteriWithEF\obj\Debug\winTelDefteriWithEF.csproj.GenerateResource.Cache
+C:\Users\HasKhan\Desktop\winTelDefteriWithEF\winTelDefteriWithEF\obj\Debug\winTelDefteriWithEF.exe
+C:\Users\HasKhan\Desktop\winTelDefteriWithEF\winTelDefteriWithEF\obj\Debug\winTelDefteriWithEF.pdb

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TelefonDBModelStoreContainer" CdmEntityContainer="TelefonDBEntities">
+    <EntitySetMapping Name="Adres">
+      <EntityTypeMapping TypeName="TelefonDBModel.Adres">
+        <MappingFragment StoreEntitySet="Adres">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="AdresTanim" ColumnName="AdresTanim" />
+          <ScalarProperty Name="KisiID" ColumnName="KisiID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kisi">
+      <EntityTypeMapping TypeName="TelefonDBModel.Kisi">
+        <MappingFragment StoreEntitySet="Kisi">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="Soyad" ColumnName="Soyad" />
+          <ScalarProperty Name="Tel" ColumnName="Tel" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
